@@ -1,0 +1,6 @@
+ansible_ssh_user: "bob"
+ansible_ssh_pass: "B0bP4ssw0rd"
+ansible_ssh_port: "5986"
+ansible_connection: "winrm"
+ansible_winrm_transport: credssp
+
