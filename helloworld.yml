@@ -6,7 +6,6 @@
       name: bob
       password: B0bP4ssw0rd
       password_never_expires: yes
-      state: present
-      groups:
+      state: presentwaddwadwa
        - Administratorsadwdwa
 TWHEOAWOWdddddddawdawddwadwa
